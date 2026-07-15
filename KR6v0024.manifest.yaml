@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0024/v1
 canonical_location: https://kanripo.org/bkk/KR6v0024/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 天竺國菩提達摩禪師論
   identifiers:
@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0024_000.yaml, hash: 'sha256:2059ca4df0dd6c00daaae9610a14d2df71b20b84d776831344b0c362790e4366'}
-  - {seq: 1, filename: KR6v0024_001.yaml, hash: 'sha256:9ac1c02d74b7285255c3ff56172d65fcc65a3f84470ae428a0d936ea49441b99'}
+  - {seq: 0, filename: KR6v0024_000.yaml, hash: 'sha256:c42578993ffa13111c7c9253161523170580f52c8676eaceea26e54bf5d8256e'}
+  - {seq: 1, filename: KR6v0024_001.yaml, hash: 'sha256:37229bd791e0f3f8ed83b7330c093554f9a95a5fd6122fce450d7d41f4fd2abc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0024_000.markers.yaml, hash: 'sha256:7d446c63c53bd64110ae69cd2149bf0a6b34c0d059f39becbe958b84de71a221'}
-  - {seq: 1, role: markers, filename: assets/KR6v0024_001.markers.yaml, hash: 'sha256:a6c535943515fbdf047a36adcf3a986438fc096586d061b4b8b0441e210b0c16'}
+  - {seq: 0, role: markers, filename: assets/KR6v0024_000.markers.yaml, hash: 'sha256:15ce6617146664347941f74c7674919b6323f5da184875cb50544631ac6de7cb'}
+  - {seq: 1, role: markers, filename: assets/KR6v0024_001.markers.yaml, hash: 'sha256:4fc4c37bfc3940d4563b1cf16a30ed8e4cbc70dc5a1ad16171a220fdf24d1045'}
 table_of_contents:
 - ref:
     seq: 0
@@ -52,6 +52,9 @@ table_of_contents:
   label: 天竺國菩提達摩禪師論一卷
   type: juan
   level: 1
-hash: sha256:6433725c8cebd9122e10421873a7e3be9c9e54c92724fb726e9ab43780395ad5
+hash: sha256:ec44497c9845f8cb601738ee309b302608d6c010e719cb1f520144db97d2ba9e
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
