@@ -19,17 +19,17 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0024_000-ZW.yaml, hash: 'sha256:2059ca4df0dd6c00daaae9610a14d2df71b20b84d776831344b0c362790e4366'}
+  - {seq: 0, filename: KR6v0024_000-ZW.yaml, hash: 'sha256:d76f4e41346acbcfb26b133dc27fd4cece7f30d493a5a0eaa447c240d03c1c34'}
   - {seq: 1, filename: KR6v0024_001-ZW.yaml, hash: 'sha256:9ac1c02d74b7285255c3ff56172d65fcc65a3f84470ae428a0d936ea49441b99'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0024_000-ZW.markers.yaml, hash: 'sha256:edeb6d71d17a7779cde55afe5b0190ef241bb969c6633b440fe2dad9cb9811ce'}
+  - {seq: 0, role: markers, filename: assets/KR6v0024_000-ZW.markers.yaml, hash: 'sha256:3903ba527a056ed1d059fbf9328e50e9fab11efc04f3d6439722bca1716ea5a8'}
   - {seq: 1, role: markers, filename: assets/KR6v0024_001-ZW.markers.yaml, hash: 'sha256:3638f739600972a2f7edd789f041fac293c3d0bbb2da04bab0c841d606998515'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0024_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0024_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 218
     - 218
   label: 錄文一
@@ -55,4 +55,4 @@ table_of_contents:
   label: 天竺國菩提達摩禪師論一卷
   type: juan
   level: 1
-hash: sha256:5c0ed0a6777cb94026762dd6b55dd8933591738101f166b54e101d62c0608d35
+hash: sha256:79b2615fecf4e5589bdf7dce63e004b1e563ea51e8f4271639a0e5b14ffdca9e
